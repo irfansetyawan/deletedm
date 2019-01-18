@@ -8,3 +8,5 @@ Lets Starting delete all dm ->
 php delete_dm.php
 ---------------
 Thx to Aan Ahmad & Dandy
+---------------
+*Tested on Termux & C9.io
